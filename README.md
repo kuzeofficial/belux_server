@@ -1,10 +1,10 @@
-# BELUX CLIENT
+# BELUX SERVER
     A simple website to chat with friends in public rooms
 
 ## STARTING 🚀
  _These instructions will allow you to obtain a copy of the running project on your local machine for development and testing purposes._
 ```
-git clone https://github.com/kuzeofficial/belux_client
+git clone https://github.com/kuzeofficial/belux_server
 ```
 Or download in zip folder
 
@@ -13,7 +13,7 @@ Or download in zip folder
 ### PREREQUISITES 📋
  Have node.js
  ```
- cd belux_client/client/
+ cd belux_server/
  ```
  ```
  npm i
@@ -23,7 +23,7 @@ Or download in zip folder
 ```
 npm start
 ```
-Then access localhost from the browser or localhost:3000
+Then access localhost from the browser or localhost:5000
 
 ### Built with 🛠️
 * [Node.JS](https://nodejs.org/es/) - Runtime environment
